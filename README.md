@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex;"> 
-  <img src="https://github-readme-stats-hussaindeesas-projects.vercel.app/api?username=HussainDeesa&theme=github_dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Hussain's GitHub stats" height="450" />
+  <img src="https://github-readme-stats-hussaindeesas-projects.vercel.app/api?username=HussainDeesa&theme=github_dark&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" alt="Hussain's GitHub stats" height="450" />
 </div>
 
 ### Top Languaages
