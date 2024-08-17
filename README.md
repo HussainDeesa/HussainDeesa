@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Stats
 
 <div style="display: flex;"> 
-  <img src="https://github-readme-stats-hussaindeesas-projects.vercel.app/api?username=HussainDeesa&theme=dark&show_icons=true" alt="Hussain's GitHub stats" height="229" />
+  <img src="https://github-readme-stats-hussaindeesas-projects.vercel.app/api?username=HussainDeesa&theme=github_dark&show_icons=true" alt="Hussain's GitHub stats" height="229" />
