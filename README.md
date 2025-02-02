@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ### Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HussainDeesa&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 <div style="display: flex;"> 
-  <img src="https://github-readme-stats-hussaindeesas-projects.vercel.app/api?username=HussainDeesa&theme=github_dark&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" alt="Hussain's GitHub stats" height="350" />
+  <img src="https://github-readme-stats-hussaindeesas-projects.vercel.app/api?username=HussainDeesa&theme=github_dark&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" alt="Hussain's GitHub stats" height="285" />
 </div>
 
 
